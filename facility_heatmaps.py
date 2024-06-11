@@ -14,7 +14,7 @@ m = folium.Map(
 
 # coordinates of facilities
 data_centers = [
-****removed for privacy/ to protect company secrets****
+# ****removed for privacy/ to protect company secrets****
 ]
 
 # Add markers with labels for each data center
